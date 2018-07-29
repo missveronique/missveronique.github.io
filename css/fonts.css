@@ -1,0 +1,26 @@
+.text-pink {
+  color: #ff748b; }
+
+.text-vanilla {
+  color: #fff1e4; }
+
+.text-lightblue {
+  color: #b7dfd7; }
+
+.text-blue {
+  color: #6f97b1; }
+
+.text-darkblue {
+  color: #4d5885; }
+
+.text-shadow {
+  text-shadow: 2px 2px 4px #000000; }
+
+.font-1 {
+  font-family: 'Lilita One', cursive; }
+
+.font-2 {
+  font-family: 'Fanwood Text', serif; }
+
+.font-3 {
+  font-family: 'Source Sans Pro', sans-serif; }
